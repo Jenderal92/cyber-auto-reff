@@ -288,3 +288,4 @@ if __name__ == "__main__":
     for i in range(int(ref_total)):
         print(f"\nReferral Code : {ref_code} => [{i}]")
         verify_task()
+        time.sleep(5)
