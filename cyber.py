@@ -281,11 +281,12 @@ if __name__ == "__main__":
     print("\nCyber Mainnet - Auto Referral\n")
     ref_code_file = input("Input list file => ")
     with open(ref_code_file, "r") as file:
-        ref_code = file.read().strip()
-    
+        referral_codes = [line.strip() for line in file]
+
     ref_total = input("How Many Referrals You Need => ")
     
-    for i in range(int(ref_total)):
-        print(f"\nReferral Code : {ref_code} => [{i}]")
-        verify_task()
-        time.sleep(5)
+    for ref_code in referral_codes:
+        for i in range(int(ref_total)):
+            print(f"\nReferral Code : {ref_code} => Total : [{i}]")
+            verify_task()
+            time.sleep(3)
