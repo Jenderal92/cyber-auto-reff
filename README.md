@@ -15,13 +15,10 @@ Python
 # Buy Coffee :
 
 <li>Bitcoin $: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1</li>
-<li>Perfect Money $: U22270614</li>
 <li>Saweria $: https://saweria.co/Shin403</li>
 <li>Trakteer $: https://trakteer.id/shin403</li>
 <li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
 <li>Ko-Fi $: https://ko-fi.com/shincode403</li>
-
-![IMG_20240626_230831](https://github.com/smileofbeauty/cyber-auto-reff/assets/59664965/b955a4ab-9176-4aa5-8fb5-a60fd690859f)
 
 
 # How To Use?
