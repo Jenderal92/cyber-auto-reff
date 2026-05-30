@@ -15,8 +15,6 @@ Python
 # Buy Coffee :
 
 <li>Bitcoin $: 31mtLHqhaXXyCMnT2EU73U8fwYwigiEEU1</li>
-<li>Buymeacoffee $: https://www.buymeacoffee.com/shin.code</li>
-<li>Ko-Fi $: https://ko-fi.com/shincode403</li>
 
 
 # How To Use?
